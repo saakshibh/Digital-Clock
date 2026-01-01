@@ -20,7 +20,8 @@ The core logic is located in:
 * `src/index.css`: Custom styling for the clock display.
 
 ## 🚀 How to Run Locally
-https://digital-clock-jf19.onrender.com
+https://digital-clock-react-huyp.onrender.com
+
 
 ### 1. Clone the Repository
 ```bash
