@@ -1,16 +1,27 @@
-# React + Vite
+# 🕰️ Digital Clock - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, real-time digital clock application built with React.js and styled with custom CSS. This project focuses on React hooks and interval management to display an accurate, live-updating clock.
 
-Currently, two official plugins are available:
+## ✨ Features
+* **Real-time Updates:** Displays current time updated every second.
+* **12-Hour Format:** Includes AM/PM indicators for easy reading.
+* **Responsive Design:** Works on desktops, tablets, and mobile devices.
+* **Modern UI:** Built using a clean and dark-themed aesthetic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+* **Frontend Library:** React.js
+* **Build Tool:** Vite
+* **Styling:** CSS3
+* **Deployment:** Render
 
-## React Compiler
+## 📁 Project Structure
+The core logic is located in:
+* `src/DigitalClock.jsx`: The main clock component and logic.
+* `src/index.css`: Custom styling for the clock display.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 How to Run Locally
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/saakshibh/Digital-Clock.git](https://github.com/saakshibh/Digital-Clock.git)
+cd clock-app
